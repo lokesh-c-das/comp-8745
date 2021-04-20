@@ -16,7 +16,7 @@ Item-Item collaborative filtering using cosine similarity
 
 # Instructions for running code:
 - Import necessary libraries (if any library missing in the system)
-- Since the submission is a jupyter notebook, we rcommend using Anaconda Navigator (https://www.anaconda.com/products/individual) to run code
+- Since the submission is a jupyter notebook, we rcommend using Anaconda Navigator (https://www.anaconda.com/products/individual) to run code. Also, our code is tested with Python 3.8.5 so we recommend using the latest version.
 - After opening Anaconda Navigator, navigate to the location of the jupyter notebook file (.ipynb)
 - We recommend to use "Run all" from cell menu in the jupyter notebook. Otherwise, run all modules step by step from the beginning.
 - Use the exact movieID and userID that is included in the original dataset as we are mapping it to zero based index to make the calculations simple. For example, 
