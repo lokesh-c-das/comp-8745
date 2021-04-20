@@ -2,8 +2,8 @@
 Project: Recommendation System for Movie Ratings
 
 # Team: 
-Lokesh Chandra Das
-Navid Mohammad Imran
+- Lokesh Chandra Das
+- Navid Mohammad Imran
 
 # Implemented algorithm: 
 Item-Item collaborative filtering using cosine similarity
