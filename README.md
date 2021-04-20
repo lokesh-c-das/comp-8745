@@ -2,8 +2,8 @@
 Project: Recommendation System for Movie Ratings
 
 # Team: 
-- Lokesh Chandra Das
-- Navid Mohammad Imran
+- Lokesh Chandra Das (UID: U00740183)
+- Navid Mohammad Imran (UID: 00761100)
 
 # Implemented algorithm: 
 Item-Item collaborative filtering using cosine similarity
